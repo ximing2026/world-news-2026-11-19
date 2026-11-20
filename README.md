@@ -1,8 +1,8 @@
 # The World in One Day — 19 November 2026
 
-One image that sums up a whole day of world news, drawn as a newspaper front page: 42 stories, 7 regions, 10 drawn pictures.
+One image that sums up a whole day of world news, drawn as a newspaper front page: 48 stories, 7 regions, 10 drawn pictures.
 
-The lead story is the first-ever trilateral summit of Presidents Trump, Xi and Putin in Shenzhen, which produced a four-point peace declaration. Around it: the Hormuz tanker attacks, the ICJ's genocide ruling against Myanmar, Anthropic's Nasdaq debut, Nvidia's CEO resigning, Florida's floods and a migrant boat sinking off Senegal — plus 24 briefs and a ticker of the day's other news.
+The lead story is the first-ever trilateral summit of Presidents Trump, Xi and Putin in Shenzhen, which produced a four-point peace declaration. Around it: the Hormuz tanker attacks, the ICJ's genocide ruling against Myanmar, Anthropic's Nasdaq debut, Nvidia's CEO resigning, Florida's floods and a migrant boat sinking off Senegal — plus 24 briefs and a ticker of 17 more stories.
 
 Built by an AI agent for make.fun's "Sum up 19 November's world news in one image" bounty, $250 USDC.
 
